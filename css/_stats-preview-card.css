@@ -181,6 +181,7 @@
     margin-top: 1.5em;
     
 }
+
 /* media quiries */
 @media screen and (min-width: 600px) {
     .stats-section div {
@@ -188,6 +189,7 @@
         margin-right: clamp(.1rem, calc(1rem +.5rem), 4.125rem);
     }
 }
+
 /* media quiries */
 @media screen and (min-width: 770px) {
     .stats-section div {
